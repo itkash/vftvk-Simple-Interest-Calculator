@@ -1,24 +1,19 @@
 body {
     background-color:black;
     font-family: arial;
-    color: white;
+    font-color: white;
 }
-h1{
-    color:gray;
-    font-family: verdana;
-    text-align: center;
+
+h1 {
+    color:grey;
+    font-family:verdana;
 }
+
 .maindiv {
-    color: black;
-    background: white;
-    width: 600px;
-    padding: 20px;
-    border-radius: 25px;
-    margin: auto;
-}
-
-
-.mylabel {
-    margin-left: 100px;
-    padding-bottom: 0.5em;
+        background-color:white;
+        font-color:black;
+        width: 300px;
+        padding: 20px;
+        border-radius: 25px;
+        align-self: center;
 }
